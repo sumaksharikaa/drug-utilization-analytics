@@ -1,0 +1,21 @@
+drug_id,brand_name,generic_name,therapy_area,manufacturer,dosage_form,strength,unit_cost_usd,formulary_tier,requires_prior_auth,is_specialty,is_cold_chain,ndc,days_supply_limit,max_quantity_per_fill
+DRG001,Humira,Adalimumab,Immunology,AbbVie,Injection,40mg,6500,4,True,True,True,62950-489-35,30,1
+DRG002,Enbrel,Etanercept,Immunology,Pfizer,Injection,50mg,5800,4,True,True,True,88569-283-39,30,1
+DRG003,Lipitor,Atorvastatin,Cardiology,Pfizer,Tablet,20mg,12,1,False,False,False,42562-236-21,30,3
+DRG004,Crestor,Rosuvastatin,Cardiology,AstraZeneca,Tablet,10mg,18,2,False,False,False,42918-846-59,30,3
+DRG005,Metformin,Metformin HCl,Diabetes,Generic,Tablet,500mg,4,1,False,False,False,79574-800-99,30,3
+DRG006,Januvia,Sitagliptin,Diabetes,Merck,Tablet,100mg,85,3,False,False,False,80599-191-89,30,3
+DRG007,Ozempic,Semaglutide,Diabetes,Novo Nordisk,Injection,1mg,850,3,True,False,False,74130-304-63,30,3
+DRG008,Keytruda,Pembrolizumab,Oncology,Merck,Injection,200mg,22000,5,True,True,True,90375-702-37,30,1
+DRG009,Eliquis,Apixaban,Cardiology,BMS/Pfizer,Tablet,5mg,145,2,False,False,False,59018-942-59,30,3
+DRG010,Xarelto,Rivaroxaban,Cardiology,J&J,Tablet,20mg,140,2,False,False,False,99439-317-29,30,3
+DRG011,Advair,Fluticasone/Salm,Pulmonology,GSK,Inhaler,250mcg,95,2,False,False,False,70487-776-32,30,3
+DRG012,Symbicort,Budesonide/Form,Pulmonology,AstraZeneca,Inhaler,160mcg,90,2,False,False,False,84306-446-20,30,3
+DRG013,Stelara,Ustekinumab,Dermatology,Janssen,Injection,45mg,18000,4,True,True,True,79299-793-21,30,1
+DRG014,Dupixent,Dupilumab,Dermatology,Sanofi,Injection,300mg,3200,4,True,True,True,71477-423-61,30,1
+DRG015,Tecfidera,Dimethyl Fumarate,Neurology,Biogen,Capsule,240mg,8100,4,True,True,True,15590-375-81,30,1
+DRG016,Lisinopril,Lisinopril,Cardiology,Generic,Tablet,10mg,3,1,False,False,False,10998-535-36,30,3
+DRG017,Amlodipine,Amlodipine,Cardiology,Generic,Tablet,5mg,4,1,False,False,False,57517-647-20,30,3
+DRG018,Omeprazole,Omeprazole,Gastroenterology,Generic,Capsule,20mg,6,1,False,False,False,70566-631-35,30,3
+DRG019,Nexium,Esomeprazole,Gastroenterology,AstraZeneca,Capsule,40mg,45,2,False,False,False,89365-573-16,30,3
+DRG020,Revlimid,Lenalidomide,Oncology,BMS,Capsule,25mg,19000,5,True,True,True,56861-232-37,30,1

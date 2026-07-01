@@ -1,0 +1,29 @@
+formulary_id,drug_id,formulary_tier,tier_name,copay_pct,effective_date,end_date,change_reason,plan_year
+FORM00001,DRG001,4,Non-Preferred Brand,0.45,2022-01-01,,Initial formulary placement,2022
+FORM00002,DRG002,4,Non-Preferred Brand,0.45,2022-01-01,,Initial formulary placement,2022
+FORM00003,DRG003,1,Preferred Generic,0.1,2022-01-01,,Initial formulary placement,2022
+FORM00004,DRG004,2,Non-Preferred Generic,0.2,2022-01-01,,Initial formulary placement,2022
+FORM00005,DRG005,1,Preferred Generic,0.1,2022-01-01,,Initial formulary placement,2022
+FORM00006,DRG006,3,Preferred Brand,0.3,2022-01-01,,Initial formulary placement,2022
+FORM00007,DRG006,2,Non-Preferred Generic,0.2,2023-01-19,,Annual formulary review,2023
+FORM00008,DRG007,3,Preferred Brand,0.3,2022-01-01,,Initial formulary placement,2022
+FORM00009,DRG007,4,Non-Preferred Brand,0.45,2023-12-17,,Clinical review,2023
+FORM00010,DRG008,5,Specialty,0.6,2022-01-01,,Initial formulary placement,2022
+FORM00011,DRG008,5,Specialty,0.6,2023-11-20,,Annual formulary review,2023
+FORM00012,DRG009,2,Non-Preferred Generic,0.2,2022-01-01,,Initial formulary placement,2022
+FORM00013,DRG009,1,Preferred Generic,0.1,2023-07-15,,Contract renegotiation,2023
+FORM00014,DRG010,2,Non-Preferred Generic,0.2,2022-01-01,,Initial formulary placement,2022
+FORM00015,DRG010,3,Preferred Brand,0.3,2023-04-13,,Annual formulary review,2023
+FORM00016,DRG011,2,Non-Preferred Generic,0.2,2022-01-01,,Initial formulary placement,2022
+FORM00017,DRG012,2,Non-Preferred Generic,0.2,2022-01-01,,Initial formulary placement,2022
+FORM00018,DRG013,4,Non-Preferred Brand,0.45,2022-01-01,,Initial formulary placement,2022
+FORM00019,DRG014,4,Non-Preferred Brand,0.45,2022-01-01,,Initial formulary placement,2022
+FORM00020,DRG015,4,Non-Preferred Brand,0.45,2022-01-01,,Initial formulary placement,2022
+FORM00021,DRG015,5,Specialty,0.6,2023-01-29,,Generic available,2023
+FORM00022,DRG016,1,Preferred Generic,0.1,2022-01-01,,Initial formulary placement,2022
+FORM00023,DRG017,1,Preferred Generic,0.1,2022-01-01,,Initial formulary placement,2022
+FORM00024,DRG018,1,Preferred Generic,0.1,2022-01-01,,Initial formulary placement,2022
+FORM00025,DRG019,2,Non-Preferred Generic,0.2,2022-01-01,,Initial formulary placement,2022
+FORM00026,DRG019,3,Preferred Brand,0.3,2023-03-05,,Annual formulary review,2023
+FORM00027,DRG020,5,Specialty,0.6,2022-01-01,,Initial formulary placement,2022
+FORM00028,DRG020,5,Specialty,0.6,2023-03-31,,Generic available,2023
