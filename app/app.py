@@ -270,7 +270,7 @@ with tab5:
 
     c1,c2 = st.columns([2,1])
     with c1:
-        st.dataframe(dq.style.applymap(
+        st.dataframe(dq.style.map(
             lambda v: "color:green" if "Pass" in str(v) else "color:orange", subset=["Status"]),
             use_container_width=True, hide_index=True)
     with c2:
